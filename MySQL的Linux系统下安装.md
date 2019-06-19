@@ -40,13 +40,13 @@ MySQL的Linux系统下安装
   /etc/init.d/mysql stop
 MySQL的Linux系统下安装
 
-![1560925841860](C:\Users\HUAWEI\AppData\Roaming\Typora\typora-user-images\1560925841860.png)
+![1560925841860](.\1560925841860.png)
 
 
 
 启动服务
 
-![1560925862377](C:\Users\HUAWEI\AppData\Roaming\Typora\typora-user-images\1560925862377.png)
+![1560925862377](.\1560925862377.png)
 
 输入如下格式的命令登录数据库
 mysql -u user –p
@@ -55,4 +55,4 @@ mysql -u user –p
 – -p用于指定用户名对应的密码
 – 如果-p后面没有输入密码，系统会提示用户输入
 
-![1560925884263](C:\Users\HUAWEI\AppData\Roaming\Typora\typora-user-images\1560925884263.png)
+![1560925884263](.\1560925884263.png)
